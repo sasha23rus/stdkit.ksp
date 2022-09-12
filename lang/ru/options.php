@@ -8,6 +8,21 @@ $MESS["KSP_OPTIONS_TAB_NAME"] 		 	   = "Настройки";
 $MESS["REDS_OPTIONS_SITES"] 		 	   = "Многосайтовость";
 $MESS["KSP_OPTIONS_TAB_COMMON"] 	 	   = "Общие";
 $MESS["KSP_OPTIONS_MAIN_PHONE"]  	   	= "Основной телефон";
+$MESS["KSP_OPTIONS_SECOND_PHONE"]  	   	= "Дополнительный телефон(консультации)";
+$MESS['KSP_OPTIONS_EMAIL']				= "Email";
+$MESS['KSP_OPTIONS_FIRMNAME']			= "Название фирмы";
+$MESS['KSP_OPTIONS_KPP']				= "Кпп";
+$MESS['KSP_OPTIONS_INN']				= "ИНН";
+$MESS['KSP_OPTIONS_OGRN']				= "ОГРН";
+
+$MESS['KSP_OPTIONS_TAB_SOCSETI']		= "Соцсети";
+$MESS['KSP_OPTIONS_WHATSAPP']			= "WhatsApp";
+$MESS['KSP_OPTIONS_TELEGRAM']			= "Telegram";
+$MESS['KSP_OPTIONS_VIBER']				= "Viber";
+
+
+
+
 $MESS["REDS_OPTIONS_TAB_APPEARANCE"] 	   = "Внешний вид";
 $MESS["REDS_OPTIONS_TAB_WIDTH"] 	 	   = "Ширина (px):";
 $MESS["REDS_OPTIONS_TAB_HEIGHT"] 	 	   = "Высота (px):";
