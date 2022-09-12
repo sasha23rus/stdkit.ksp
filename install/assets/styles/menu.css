@@ -1,0 +1,10 @@
+
+#global_menu_ksp_corporatelight .adm-main-menu-item-icon{background: url("../../images/stdkit.ksp/KSP_bitrix.png") no-repeat center; opacity: .9;}
+#global_menu_red_corporatelight.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_redcode_corporatelight:hover .adm-main-menu-item-icon{opacity: 1;}
+.ksp_options #edit_edit_table tr td:nth-child(1) {
+    text-align: right;
+}
+
+.ksp_options #edit_edit_table tr td:nth-child(2) {
+    /* text-align: left; */
+}
